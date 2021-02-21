@@ -1,1 +1,2 @@
-# BrickHack7
+## Brick Party
+# for BrickHack7
