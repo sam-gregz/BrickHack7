@@ -39,6 +39,11 @@ h2 {
 p {
     text-indent: 20px;
     padding: 10px;
+    text-align: center;
+}
+
+.logo {
+    
 }
 
 .Company {
@@ -53,4 +58,15 @@ p {
 Button {
     color:seashell;
     background-color:sienna;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 5px;
+    float: left;
 }
+
+Button:hover {
+    background-color:rgb(121, 78, 59);
+}
+
