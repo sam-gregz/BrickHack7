@@ -13,6 +13,7 @@ nav {
 .logo {
     width: 12%;
     padding: 15px;
+    max-width: 10px;
 }
 
 .menu {
@@ -54,4 +55,6 @@ p {
 Button {
     color:seashell;
     background-color:sienna;
+    padding: 10px;
+    left: 10px;
 }
