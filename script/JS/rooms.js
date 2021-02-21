@@ -3,7 +3,9 @@ var chat = document.querySelector('.chat');
 var broadcast = document.querySelector('.broadcast');
 var home = document.getElementById("Home");
 console.log(game);
+console.log(broadcast);
 console.log(home);
+console.log(chat);
 
 home.onclick = goHome;
 game.onclick = goToGame;
