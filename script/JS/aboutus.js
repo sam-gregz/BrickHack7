@@ -13,7 +13,7 @@ function createAccount(){
 }
 
 function goHome(){
-    console.log("home");
+    alert("home");
 }
 
 function Enter(){
