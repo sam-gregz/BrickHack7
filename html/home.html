@@ -9,14 +9,42 @@
     </head>
 
     <body>
-        <h1><img src="../assets/images/Logo.png" alt="Logo" id="Home"></h1>
+
+       <!-- <nav>
+            <ul class="menu">
+                <li>Create Account</li>
+                <li>Log In</li>
+                <li>About Us</li>
+            </ul>
+            
+        </nav>-->
+        <a href="home.html"><img 
+            src="../assets/images/Logo.png" 
+            alt="Logo" id="Home"></a>
+        
         <h1 class = "Company">Brick Party</h1>
+       
         <p>Welcome to Brick Party</p>
+      
         <div id="buttons">
-            <button id="Join" class="button">Create Account</button>
-            <button id="Log In" class="LogIn">Log In</button>
-            <button id ="About" class="learn">About Us</button>
+            <form id="Join" class="button" action="SignUp.html">
+                <button type="submit" value="Sign up">Create Account
+            </form>
+             <!-- <button id="Join" class="button">Create Account</button>!-->
+            
+             <form id="Log In" class="LogIn" action="Login.html">
+                <button type="submit" value="Login">LogIn
+            </form> 
+            <!--<button id="Log In" class="LogIn">Log In</button>!-->
+           
+            <form id="About" class="learn" action="aboutus.html">
+                <button type="submit" value="Learn about us">About us
+            </form>
+            <!--<button id ="About" class="learn">About Us</button>!-->
+       
         </div>
+       
         <script src="../script/JS/aboutus.js"></script>
+    
     </body>
 </html>

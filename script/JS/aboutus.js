@@ -13,11 +13,11 @@ function createAccount(){
 }
 
 function goHome(){
-    console.log("home");
+    console.log(home)
 }
 
 function Enter(){
-    console.log("enter");
+    about.href
 }
 
 function aboutUs(){

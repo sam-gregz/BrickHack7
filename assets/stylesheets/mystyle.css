@@ -1,15 +1,33 @@
 body {
     margin: 0;
+    font-family: Helvetica, sans-serif;
 }
 
 nav {
-    background-color: black ;
+    background-color: sienna ;
     padding: 0 20;
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
+<<<<<<< HEAD
+=======
+
+.menu {
+    color: white;
+    list-style-type: none;
+    width: 40%;
+    display: flex;
+    font-family: helvetica, sans-serif;
+
+}
+
+.menu li {
+    padding: 15px;
+    text-align: right;
+}
+>>>>>>> 6bf86d6cdbdd1539bd1e1d391ffbd0c0cd165056
 
 img {
  width: 20%;
@@ -25,6 +43,11 @@ h2 {
 p {
     text-indent: 20px;
     padding: 10px;
+    text-align: center;
+}
+
+.logo {
+    
 }
 
 .Company {
@@ -39,5 +62,20 @@ p {
 Button {
     color:seashell;
     background-color:sienna;
+<<<<<<< HEAD
     padding: 10px;
 }
+=======
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    border-radius: 8px;
+    margin: 5px;
+    float: left;
+}
+
+Button:hover {
+    background-color:rgb(121, 78, 59);
+}
+
+>>>>>>> 6bf86d6cdbdd1539bd1e1d391ffbd0c0cd165056
