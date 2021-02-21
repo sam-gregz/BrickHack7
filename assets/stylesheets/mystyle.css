@@ -10,27 +10,11 @@ nav {
     align-items: center;
 }
 
-.logo {
-    width: 12%;
-    padding: 15px;
-    max-width: 10px;
-}
-
-.menu {
-    color: white;
-    list-style-type: none;
-    width: 40%;
-    display: flex;
-    font-family: helvetica, sans-serif;
-}
-
-.menu li {
-    padding: 15px;
-}
 
 img {
  width: 20%;
  height: auto;
+ max-width: 150px;
 }
 
 h2 {
@@ -56,5 +40,4 @@ Button {
     color:seashell;
     background-color:sienna;
     padding: 10px;
-    left: 10px;
 }

@@ -1,0 +1,53 @@
+img {
+    width: 20%;
+    height: auto;
+    max-width: 90px;
+   }
+
+#buttons{
+    height: 200px;
+    position:relative;
+}
+
+#top {
+    margin: 0;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#right {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#left {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#bottom {
+    margin: 0;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+div {
+    width: 150px;
+    border: 5px solid black;
+    padding: 50px;
+    margin: 20px;
+}
