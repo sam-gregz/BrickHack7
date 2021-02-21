@@ -1,0 +1,1 @@
+Logo from <a href='https://www.freepik.com/vectors/gold'>Gold vector created by macrovector - www.freepik.com</a>

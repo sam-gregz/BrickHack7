@@ -1,0 +1,15 @@
+
+
+nav {
+    background-color: black ;
+    padding: 0 20;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 20px;
+}
+
+.logo {
+    width: 12%;
+    padding: 15px;
+}
