@@ -11,8 +11,6 @@ nav {
     align-items: center;
 }
 
-<<<<<<< HEAD
-=======
 
 .menu {
     color: white;
@@ -27,7 +25,6 @@ nav {
     padding: 15px;
     text-align: right;
 }
->>>>>>> 6bf86d6cdbdd1539bd1e1d391ffbd0c0cd165056
 
 img {
  width: 20%;
@@ -46,9 +43,6 @@ p {
     text-align: center;
 }
 
-.logo {
-    
-}
 
 .Company {
     color:sienna;
@@ -62,20 +56,17 @@ p {
 Button {
     color:seashell;
     background-color:sienna;
-<<<<<<< HEAD
-    padding: 10px;
-}
-=======
     justify-content: space-between;
     align-items: center;
+    width: 15%;
+    height: 7%;
     padding: 5px;
     border-radius: 8px;
     margin: 5px;
     float: left;
+    font-size: 80%;
 }
 
 Button:hover {
     background-color:rgb(121, 78, 59);
 }
-
->>>>>>> 6bf86d6cdbdd1539bd1e1d391ffbd0c0cd165056
